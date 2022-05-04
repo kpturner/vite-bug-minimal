@@ -1,0 +1,14 @@
+{
+  "name": "panoptes-ui",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "build": "vite build --config ./vite.config.ts"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "vite": "2.9.5"
+  }
+}
