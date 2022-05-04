@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "scripts": {
-    "build": "vite build --config ./vite.config.ts"
+    "build": "vite build --debug --config ./vite.config.ts"
   },
   "dependencies": {
     
